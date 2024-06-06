@@ -39,6 +39,12 @@ For help creating a contributions and credit policy, see the [policy creation gu
 
 See the [list of projects with contributions and credit policies](policies.md).
 
+## Related talks and articles
+
+* [Linux Weekly News article by Valerie Aurora](https://lwn.net/Articles/971817/)
+* [Talk by Maria Matějka about the policy release at RIPE 88](https://ripe88.ripe.net/archives/video/1371/)
+* [Talk by Valerie Aurora proposing a policy at RIPE 87](https://ripe87.ripe.net/archives/video/1218/)
+
 ## Contributing
 
 We welcome contributions to this project. Please see our [contributions and credit policy](CONTRIBUTING.md) for more information on how to contribute.
