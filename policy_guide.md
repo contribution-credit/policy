@@ -215,5 +215,6 @@ Here are some additional resources for developing a contributions and credit pol
 
 * List of [projects with policies](policies.md)
 * GitHub bot to simplify crediting contributors who are not making pull requests: [https://allcontributors.org/](https://allcontributors.org/)
+* The [CRediT](https://credit.niso.org/implementing-credit/) contributor roles taxonomy for identifying contributions to scientific research, by the CRediT Working Group
 * Work in progress: [Standards to define software authorship and credit](https://www.researchsoft.org/tf-authorship-contribution/) in the context of scientific research, by the [Research Software Alliance](https://www.researchsoft.org/), based on work by [SORTÆD](https://sdruskat.net/software-authorship/)
 * [YOUR SUGGESTION HERE]
